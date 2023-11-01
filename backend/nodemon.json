@@ -1,0 +1,8 @@
+{
+    "env" : {
+        "DB_USER" : "test",
+        "DB_PASSWORD" : "test123",
+        "DB_NAME" : "UserPlace",
+        "JWT_KEY" : "supersecret_dont_share"
+    }
+}
